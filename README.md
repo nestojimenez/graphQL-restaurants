@@ -1,0 +1,2 @@
+# graphQL-restaurants
+Practice graphql
